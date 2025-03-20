@@ -26,7 +26,8 @@ A desktop application built with Python and Tkinter for managing PDF files. The 
 - Preview the PDF and adjust signature position.
 
 ---
-
+## Download
+You can download from here: https://sourceforge.net/projects/pdf-tools/
 ## Installation
 
 ### 1. Clone the repository:
@@ -73,13 +74,6 @@ Install them using:
 ```bash
 pip install tkinter pillow pypdf2 pymupdf
 ```
-
----
-
-## Screenshots
-*(Add screenshots here)*
-
----
 
 ## Contributing
 1. Fork the repository.
